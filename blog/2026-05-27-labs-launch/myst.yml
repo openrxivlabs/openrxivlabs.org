@@ -18,3 +18,6 @@ project:
       template: https://github.com/curvenote-templates/openrxivlabs.git
       article: index.md
       output: full_text.pdf
+  downloads:
+    - id: pdf
+      title: Download PDF
