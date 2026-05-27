@@ -1,0 +1,38 @@
+version: 1
+project:
+  license: CC-BY-4.0
+  open_access: true
+  banner: banner.png
+  thumbnail: thumbnail.png
+  venue:
+    title: Continuous Science Foundation
+    url: https://continuousfoundation.org
+  subject: Article
+  contributors:
+    - id: tracy
+      name: Tracy Teal
+      email: tracy@openrxiv.org
+      corresponding: true
+      orcid: 0000-0002-9180-9598
+      github: tracykteal
+      affiliations:
+        - id: openrxiv
+  affiliations:
+    - id: openrxiv
+      name: openRxiv
+      url: https://openrxiv.org
+  abbreviations:
+    CSF: Continuous Science Foundation
+    DOI: Digital Object Identifier
+    JATS: Journal Article Tag Suite
+    MECA: Manuscript Exchange Common Approach
+    ZIP: Zip Archive
+    HDF5: Hierarchical Data Format 5
+    JSON: JavaScript Object Notation
+    JSON-LD: JSON Linked Data
+    RDF: Resource Description Framework
+    CC: Creative Commons
+  references:
+    cs: https://articles.continuousfoundation.org/articles/defining-continuous-science
+site:
+  template: article-theme

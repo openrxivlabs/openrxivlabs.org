@@ -1,0 +1,17 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: eb79d694-84f6-45ed-8cca-c8ac8e3ac502
+  title: openRxiv Labs
+  description: openRxiv Labs is an experimental space for pushing the boundaries of research communication on top of openRxiv’s corpus of preprints, figures, metadata, and other research outputs.
+  # keywords: []
+  # authors: []
+  github: https://github.com/openrxivlabs/openrxivlabs.org
+  toc:
+    - file: index.md
+    - file: faq.md
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
