@@ -7,9 +7,20 @@ project:
   github: https://github.com/openrxivlabs/openrxivlabs.org
   toc:
     - file: index.md
+    - file: about.md
     - file: faq.md
+    - file: blog.md
+    - file: experiments.md
+      children:
+        - file: curvenote-reader.md
 site:
   template: book-theme
   nav:
+    - title: About Labs
+      url: /about
     - title: FAQ
       url: /faq
+    - title: Blog
+      url: /blog
+    - title: Experiments
+      url: /experiments
