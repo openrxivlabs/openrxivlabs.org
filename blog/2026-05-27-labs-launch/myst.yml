@@ -1,0 +1,13 @@
+version: 1
+extends:
+  - ../../authors.yml
+project:
+  id: bcad4499-2dbe-4c9b-9f51-3528f444f01c
+  title: Launching openRxiv Labs
+  description: Today, we’re thrilled to announce the launch of openRxiv Labs, a space for experimenting with new ideas and opportunities that push the boundaries of research communication.
+  tags:
+    - labs
+  authors:
+    - id: tracy
+    - id: gabe
+  github: https://github.com/openrxivlabs/openrxivlabs.org
