@@ -2,7 +2,6 @@ version: 1
 project:
   license: CC-BY-4.0
   open_access: true
-  banner: banner.png
   thumbnail: thumbnail.png
   venue:
     title: Continuous Science Foundation
