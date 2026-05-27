@@ -1,0 +1,12 @@
+name: curvenote push
+on:
+  push:
+    branches: ["main"]
+jobs:
+  journal-draft:
+    uses: curvenote/actions/.github/workflows/push.yml@v1
+    with:
+      landing-content: labs
+      path: landing
+    secrets:
+      CURVENOTE: ${{ secrets.CURVENOTE_TOKEN }}
