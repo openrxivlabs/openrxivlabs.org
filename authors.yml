@@ -11,10 +11,17 @@ project:
   contributors:
     - id: tracy
       name: Tracy Teal
-      email: tracy@openrxiv.org
+      email: teal@openrxiv.org
       corresponding: true
       orcid: 0000-0002-9180-9598
       github: tracykteal
+      affiliations:
+        - id: openrxiv
+    - id: gabe
+      name: Gabriel Stein
+      email: stein@openrxiv.org
+      orcid: 0000-0003-4003-0418
+      github: gabestein
       affiliations:
         - id: openrxiv
   affiliations:
