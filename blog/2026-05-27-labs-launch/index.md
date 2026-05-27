@@ -1,4 +1,6 @@
-# Labs Launch post
+---
+title: Launching openRxiv Labs
+---
 
 Over the last thirteen years, bioRxiv and medRxiv have become foundational infrastructure for rapid research sharing in biology and medicine by providing steady, trustworthy, researcher-driven platforms for disseminating preprints. A core part of our mission at openRxiv is continuing to responsibly steward these platforms to maintain and build on the trusted foundation we’ve established. At the same time, we recognize that the research ecosystem is evolving rapidly, driven by changes in global economics, policy, and technology. We believe it is critical that we take a leadership role in helping our community adapt to these changes without disrupting the core of what makes openRxiv a leader in biomedical preprinting.
 
