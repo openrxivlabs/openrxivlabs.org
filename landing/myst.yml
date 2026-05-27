@@ -8,7 +8,6 @@ project:
   toc:
     - file: index.md
     - file: about.md
-    - file: faq.md
     - file: blog.md
     - file: experiments.md
       children:
@@ -18,8 +17,6 @@ site:
   nav:
     - title: About Labs
       url: /about
-    - title: FAQ
-      url: /faq
     - title: Blog
       url: /blog
     - title: Experiments
