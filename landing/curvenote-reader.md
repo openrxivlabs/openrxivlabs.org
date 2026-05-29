@@ -31,6 +31,10 @@ This experiment is run in collaboration with **Curvenote**, whose mission is to 
 
 The experiment is active. If you try the reader or have feedback on the experience, reach out to [hello@openrxivlabs.org](mailto:hello@openrxivlabs.org) or open an issue in the [openRxiv Labs GitHub organization](https://github.com/openrxivlabs).
 
+## Funding
+
+This experiment is supported in part by a grant from [Alberta Innovates](https://albertainnovates.ca/) to [Curvenote](https://curvenote.com) for an international technology partnership with openRxiv. The partnership focuses on connected, web-native reading experiences for preprints.
+
 ## Project Updates
 
 ```{cn:articles}
