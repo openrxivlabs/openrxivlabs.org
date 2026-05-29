@@ -13,7 +13,7 @@ project:
       children:
         - file: curvenote-reader.md
 site:
-  template: book-theme
+  template: article-theme
   nav:
     - title: About Labs
       url: /about

@@ -1,7 +1,18 @@
 ---
 title: openRxiv Labs
 description: An experimental space for pushing the boundaries of research communication on top of openRxiv’s corpus of preprints, figures, metadata, and other research outputs.
+site:
+  hide_outline: true
+  hide_title_block: true
 ---
+
+:::{hero .col-screen} openRxiv Labs
+:background-image: banner.png
+:max-width: 100, 80, 75, 60
+:overlay: 80
+:actions: [Stay Connected](https://openrxiv.org/newsletter)
+openRxiv Labs is an experimental space for pushing the boundaries of research communication on top of openRxiv’s corpus of preprints, figures, metadata, and other research outputs.
+:::
 
 :::{note} openRxiv Labs Launches Soon!
 We are excited to openRxiv Labs on June 1st.
