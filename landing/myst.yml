@@ -21,3 +21,5 @@ site:
       url: /blog
     - title: Experiments
       url: /experiments
+    - title: Stay Connected
+      url: https://openrxiv.org/newsletter

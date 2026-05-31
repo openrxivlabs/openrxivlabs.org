@@ -29,7 +29,11 @@ This experiment is run in collaboration with **Curvenote**, whose mission is to 
 
 ## Status and feedback
 
-The experiment is active. If you try the reader or have feedback on the experience, reach out to [hello@openrxivlabs.org](mailto:hello@openrxivlabs.org) or open an issue in the [openRxiv Labs GitHub organization](https://github.com/openrxivlabs).
+:::{note} Launching Soon
+This experiment will launch publicly in early June, [stay connected](https://openrxiv.org/newsletter).
+:::
+
+The experiment is active. If you try the reader or have feedback on the experience, reach out to [hello@openrxiv.org](mailto:hello@openrxiv.org) or open an issue in the [openRxiv Labs GitHub organization](https://github.com/openrxivlabs/curvenote-reader).
 
 ## Funding
 

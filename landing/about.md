@@ -43,13 +43,13 @@ To protect the hard-won trust openRxiv has built amongst its community, experime
 
 ## Experiment Submission and Selection Process
 
-Partners interested in working with openRxiv Labs can reach out directly by emailing [hello@openrxivlabs.org](mailto:hello@openrxivlabs.org) with a summary of the experiment they wish to run. The openRxiv team will evaluate the experiments based on their alignment with the priority opportunity areas and the criteria below, and invite collaborators whose projects seem like a potential fit to discuss it further with the team. If we decide to move forward, invited collaborators will be asked to submit a formal proposal, which the team, and key stakeholders, will evaluate in a multi-stage process, culminating in a contractual agreement to run the experiment together.
+Partners interested in working with openRxiv Labs can reach out directly by emailing [hello@openrxiv.org](mailto:hello@openrxiv.org) with a summary of the experiment they wish to run. The openRxiv team will evaluate the experiments based on their alignment with the priority opportunity areas and the criteria below, and invite collaborators whose projects seem like a potential fit to discuss it further with the team. If we decide to move forward, invited collaborators will be asked to submit a formal proposal, which the team, and key stakeholders, will evaluate in a multi-stage process, culminating in a contractual agreement to run the experiment together.
 
 We view openRxiv Labs itself as an ongoing experiment. As we learn more about the ideal process for openRxiv Labs, we will iterate on, formalize, and publish more details about the selection process to provide potential collaborators, and the community at large, with more concrete pathways for getting involved, as well as lessons learned that others can use to run their own Labs programs.
 
 ## Interested in Collaborating?
 
-Email us directly at [hello@openrxivlabs.org](mailto:hello@openrxivlabs.org) with:
+Email us directly at [hello@openrxiv.org](mailto:hello@openrxiv.org) with:
 
 - An overview of you and your organization, including a statement on why you believe you meet the above partner criteria
 - Details about the experiment you wish to run, including which opportunity area it fits into best
