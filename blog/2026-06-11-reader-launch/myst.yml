@@ -2,7 +2,7 @@ version: 1
 extends:
   - ../../authors.yml
 project:
-  id: bcad4499-2dbe-4c9b-9f51-3528f444f01c
+  id: d4cb1892-6fc4-495f-a1cd-d37ae714cd6c
   title: Launching Curvenote Reader in openRxiv Labs
   description: Today, we’re excited to launch our first experiment, a new interactive reading experience with Curvenote Reader.
   date: 2026-06-11
