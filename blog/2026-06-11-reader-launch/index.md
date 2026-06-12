@@ -14,9 +14,7 @@ commitment to open science and aligns with our [Labs partner criteria](https://o
 
 Check out Curvenote Reader in openRxiv Labs! [https://reader.openrxivlabs.org/](https://reader.openrxivlabs.org/).
 
-Find a preprint through search, or use a DOI.
-The URL structure is the same as bioRxiv: reader.openrxivlabs.org/content/DOI,
-e.g. [reader.openrxivlabs.org/content/10.64898/2026.06.04.730096v1](https://reader.openrxivlabs.org/content/10.64898/2026.06.04.730096v1)
+Find a preprint through search, or use a DOI. The URL structure is the same as bioRxiv.
 
 We’re starting with bioRxiv preprints, offering readers the ability to explore references, terminology, 
 expanded figures, and related works while staying in the context of the original preprint. Over time, we’ll 
