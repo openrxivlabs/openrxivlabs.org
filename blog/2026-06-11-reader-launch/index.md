@@ -1,5 +1,5 @@
 ---
-title: Try our first openRxiv Labs experiment: a new interactive reading experience with Curvenote Reader
+title: 'Try our first openRxiv Labs experiment: a new interactive reading experience with Curvenote Reader'
 ---
 
 openRxiv stewards one of the world’s largest corpuses of biomedical preprints through bioRxiv and medRxiv. 
