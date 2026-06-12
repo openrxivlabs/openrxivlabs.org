@@ -1,0 +1,23 @@
+version: 1
+extends:
+  - ../../authors.yml
+project:
+  id: bcad4499-2dbe-4c9b-9f51-3528f444f01c
+  title: Launching Curvenote Reader in openRxiv Labs
+  description: Today, we’re excited to launch our first experiment, a new interactive reading experience with Curvenote Reader.
+  date: 2026-06-11
+  tags:
+    - labs
+  authors:
+    - id: tracy
+    - id: gabe
+  github: https://github.com/openrxivlabs/openrxivlabs.org
+  exports:
+    - id: pdf
+      format: typst
+      template: https://github.com/curvenote-templates/openrxivlabs.git
+      article: index.md
+      output: full_text.pdf
+  downloads:
+    - id: pdf
+      title: Download PDF
