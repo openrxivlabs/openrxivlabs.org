@@ -9,6 +9,14 @@ openRxiv is experimenting with [Curvenote Reader](https://curvenote.com/products
 
 Instead of downloading PDFs and hunting through references, readers can hover over citations, expand figures, and follow links to related work while staying in the flow of the article.
 
+:::{important} Try Curvenote Reader in openRxiv Labs
+
+You can try this experiment at:
+
+https://reader.openrxivlabs.org
+
+:::
+
 ## Hypothesis
 
 Preprints are most valuable when readers can move easily from narrative to the evidence behind it—data, code, protocols, and cited work. We hypothesize that a connected reading experience, built on structured content already maintained by the archive, will help readers engage more deeply with preprints and discover related research without extra friction.
@@ -28,10 +36,6 @@ The experiment uses an automated handoff from existing archive formats, so it do
 This experiment is run in collaboration with **Curvenote**, whose mission is to improve how scientific content is authored, shared, and read on the web. Experiment materials and updates are maintained in the [curvenote-reader](https://github.com/openrxivlabs/curvenote-reader) repository on GitHub.
 
 ## Status and feedback
-
-:::{note} Launching Soon
-This experiment will launch publicly in early June, [stay connected](https://openrxiv.org/newsletter).
-:::
 
 The experiment is active. If you try the reader or have feedback on the experience, reach out to [hello@openrxiv.org](mailto:hello@openrxiv.org) or open an issue in the [openRxiv Labs GitHub organization](https://github.com/openrxivlabs/curvenote-reader).
 
