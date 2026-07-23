@@ -8,7 +8,7 @@ on the main bioRxiv site to the Reader version via a new button in the right-han
 will appear 48 hours after a preprint is posted to ensure the full-text version is available. Over time, 
 we’ll work to improve this process so the button appears as soon as the Reader version is available.
 
-![Try on Reader button on bioRxiv](button-image.jpg)
+![An article on bioRxiv with a box on the sidebar that says openRxiv Labs Invitation to beta test. Explore references, terminology, expanded figures and related works within the context of the original preprint. Try Curvenote Reader text is on a button, as the place to click to try the Reader.](button-image.jpg)
 
 One of the early pieces of feedback [we received](https://ripplingideas.org/2026/06/03/openrxiv-labs-so-what/) from Dr. Jonny Coates was to be specific and transparent about how we’re assessing 
 these experiments, which is a core part of our [openRxiv Labs Criteria](https://openrxivlabs.org/about). This expansion is an ideal opportunity to provide an update 
