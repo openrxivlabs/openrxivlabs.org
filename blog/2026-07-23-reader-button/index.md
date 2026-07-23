@@ -1,9 +1,6 @@
 ---
 title: 'Why we’re expanding the openRxiv Labs Curvenote Reader experiment'
 ---
-
-Read on for early results and what we’ll be looking at in the next phase
-
 Last month, we [launched openRxiv Labs Curvenote Reader](https://reader.openrxivlabs.org/), a new way to explore preprints interactively, 
 as the first of our [openRxiv Labs experiments](https://openrxivlabs.org/curvenote-reader). After a few weeks of testing, analyzing early metrics, 
 and monitoring early feedback, we’re excited to expand the experiment to include direct links from preprints 
@@ -11,7 +8,7 @@ on the main bioRxiv site to the Reader version via a new button in the right-han
 will appear 48 hours after a preprint is posted to ensure the full-text version is available. Over time, 
 we’ll work to improve this process so the button appears as soon as the Reader version is available.
 
- ![Try on Reader button on bioRxiv](button-image.png)
+![Try on Reader button on bioRxiv](button-image.jpg)
 
 One of the early pieces of feedback [we received](https://ripplingideas.org/2026/06/03/openrxiv-labs-so-what/) from Dr. Jonny Coates was to be specific and transparent about how we’re assessing 
 these experiments, which is a core part of our [openRxiv Labs Criteria](https://openrxivlabs.org/about). This expansion is an ideal opportunity to provide an update 
