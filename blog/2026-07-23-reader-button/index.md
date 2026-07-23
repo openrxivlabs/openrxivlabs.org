@@ -38,6 +38,6 @@ indicate that Reader is interesting to a significant segment of the bioRxiv audi
 enough that a significant segment of users choose Reader for their habitual preprint reading.
 
 We’ll write with another update once we’ve had time to assess the results of the button. In the meantime, we value your continued 
-feedback on this experiment. Feel free to reach out via [email](hello@openrxiv.org), [Bluesky](https://bsky.app/profile/openrxiv.bsky.social), 
+feedback on this experiment. Feel free to reach out via [email](mailto:hello@openrxiv.org?subject=openRxiv+Labs+Curvenote+Reader), [Bluesky](https://bsky.app/profile/openrxiv.bsky.social), 
 the [GitHub Repo](https://github.com/openrxivlabs/curvenote-reader/issues) for the experiment, or by submitting an issue 
 using the feedback button on the bottom of every Reader page.
