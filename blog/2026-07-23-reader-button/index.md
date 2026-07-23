@@ -1,4 +1,6 @@
-## Why we’re expanding the openRxiv Labs Curvenote Reader experiment
+---
+title: 'Why we’re expanding the openRxiv Labs Curvenote Reader experiment'
+---
 
 Read on for early results and what we’ll be looking at in the next phase
 
