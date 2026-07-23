@@ -1,0 +1,22 @@
+version: 1
+extends:
+  - ../../authors.yml
+project:
+  id: 20d7f9d9-c208-4933-b57a-a59f033a3f56
+  title: Why we’re expanding the openRxiv Labs Curvenote Reader experiment
+  description: Read on for early results and what we’ll be looking at in the next phase.
+  date: 2026-07-23
+  tags:
+    - labs
+  authors:
+    - id: gabe
+  github: https://github.com/openrxivlabs/openrxivlabs.org
+  exports:
+    - id: pdf
+      format: typst
+      template: https://github.com/curvenote-templates/openrxivlabs.git
+      article: index.md
+      output: full_text.pdf
+  downloads:
+    - id: pdf
+      title: Download PDF
