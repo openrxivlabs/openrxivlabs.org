@@ -2,7 +2,7 @@ version: 1
 extends:
   - ../../authors.yml
 project:
-  id: 20d7f9d9-c208-4933-b57a-a59f033a3f56
+  id: 62996198-adbc-4775-8117-954a5f9c8014
   title: Expanding openRxiv Labs Curvenote Reader to medRxiv
   description: All 428,000+ preprints in the openRxiv Corpus are now available in Curvenote Reader.
   date: 2026-10-08
