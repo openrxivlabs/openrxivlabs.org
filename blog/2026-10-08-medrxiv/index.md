@@ -3,7 +3,7 @@ title: 'Expanding openRxiv Labs Curvenote Reader to medRxiv'
 ---
 We're excited to announce that the openRxiv Labs Curvenote Reader [experiment](https://openrxivlabs.org/curvenote-reader) is expanding to cover all medRxiv preprints. Starting today, readers can [browse](http://reader.openrxivlabs.org/medrxiv) every one of the nearly 90,000 preprints on medRxiv in the new interactive, networked experience already available for bioRxiv preprints. Combined with bioRxiv, that means that every one of the 428,000+ preprints in the openRxiv Corpus are now available in Curvenote Reader.
 
-![The homepage of the medRxiv view of openRxiv Labs Curvenote Reader.](button-image.jpg)
+![The homepage of the medRxiv view of openRxiv Labs Curvenote Reader, with a first article about "Personalized nutrition products in a hospital setting."](medrxiv-reader.png)
 
 Based on both qualitative feedback and data we've analyzed from the bioRxiv version, we feel confident that medRxiv readers will also value the way Curvenote Reader makes it easier to explore and understand figures, references, protocols, abbreviations, and other resources in the context of the original preprint.
 
