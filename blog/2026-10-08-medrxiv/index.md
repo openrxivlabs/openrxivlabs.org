@@ -1,0 +1,16 @@
+---
+title: 'Expanding openRxiv Labs Curvenote Reader to medRxiv'
+---
+We're excited to announce that the openRxiv Labs Curvenote Reader [experiment](https://openrxivlabs.org/curvenote-reader) is expanding to cover all medRxiv preprints. Starting today, readers can [browse](http://reader.openrxivlabs.org/medrxiv) every one of the nearly 90,000 preprints on medRxiv in the new interactive, networked experience already available for bioRxiv preprints. Combined with bioRxiv, that means that every one of the 428,000+ preprints in the openRxiv Corpus are now available in Curvenote Reader.
+
+![The homepage of the medRxiv view of openRxiv Labs Curvenote Reader.](button-image.jpg)
+
+Based on both qualitative feedback and data we've analyzed from the bioRxiv version, we feel confident that medRxiv readers will also value the way Curvenote Reader makes it easier to explore and understand figures, references, protocols, abbreviations, and other resources in the context of the original preprint.
+
+In July, we [expanded](https://openrxivlabs.org/articles/reader-button-launch) our experiment to make it easier to find the Reader version of bioRxiv preprints on the main bioRxiv site. Since that expansion, we've seen a dramatic increase in traffic to Reader while realizing small increases in both interactive engagements (37.5% vs. 29%) and engagements per user (4 vs. 3.7). Even more exciting, week-over-week retention has increased significantly from 7.4% during the initial soft launch period to over 15% since July. Taken together, this data indicates that readers are seeking out Reader, coming back once they experience it, and taking advantage of the features it offers.
+
+The one metric we'd like to see improve is the amount of traffic to Reader. When we launched the Reader button on the bioRxiv site, we set a goal of a 1-2% click-through rate. So far, that number is around .27%. There are a number of reasons why this number might be lower than we hoped that we'll be exploring in the next phase of the experiment. 
+
+The most likely is that new preprints still take up to 24 hours after being posted to appear on Reader, and the button on bioRxiv appears after 48 hours. The initial few days after a preprint is posted tends to be when it receives the most traffic, so it's likely that Reader does not benefit from the initial, most engaged traffic to any given preprint. We'll be working to close this gap so that the Reader version is available as soon as it appears on bioRxiv or medRxiv. Another potential explanation is that when we launched the button, we deliberately chose to start with a minimal design in the right-hand sidebar. As we roll out the same button on medRxiv, we'll be able to experiment with new designs that are more pronounced without being overwhelming.
+
+If you haven't already, take a look at one of the new [medRxiv preprints](https://reader.openrxivlabs.org/medrxiv) on reader and let us know what you think. You can reach us via [email](mailto:hello@openrxiv.org), [Bluesky](https://bsky.app/profile/openrxiv.bsky.social), the [GitHub Repo](https://github.com/openrxivlabs/curvenote-reader/issues) for the experiment, or by submitting an issue using the feedback button on the bottom of every Reader page.
